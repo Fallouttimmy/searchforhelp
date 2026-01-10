@@ -41,7 +41,7 @@ const categories = [
     nameNl: "LHBTQ+",
     description: "Support for LHBTQ+ individuals and their families",
     descriptionNl: "Ondersteuning voor LHBTQ+ personen en hun families",
-    icon: "heart",
+    icon: "brain",
     slug: "lgbtq",
   },
   {
