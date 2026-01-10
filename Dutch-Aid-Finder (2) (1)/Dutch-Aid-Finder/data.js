@@ -367,7 +367,7 @@ const helplines = [
     phone: "0900-8020",
     website: "https://www.juridischloket.nl",
     categoryId: "legal",
-    hoursNl: "Ma-Vr 9:00-18:00",
+    hoursNl: "Ma-Vr 9:00-17:00",
     languages: ["Nederlands"],
   },
   {
