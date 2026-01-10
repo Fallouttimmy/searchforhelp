@@ -372,10 +372,9 @@ const helplines = [
   },
   {
     id: "advocaat-piket",
-    name: "Piketcentrale Advocatuur",
-    description: "Emergency legal assistance 24/7",
-    descriptionNl: "Spoedeisende juridische hulp 24/7",
-    phone: "088-8996900",
+    name: "Nederlandse orde van advocaten",
+    description: "search for a lawyer",
+    descriptionNl: "zoek een advocaat",
     website: "https://www.advocatenorde.nl",
     categoryId: "legal",
     hoursNl: "24/7 bereikbaar",
