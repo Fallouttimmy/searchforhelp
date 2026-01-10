@@ -264,8 +264,8 @@ const helplines = [
   {
     id: "coc-nederland",
     name: "COC Nederland",
-    description: "LGBTQ+ rights organization with support services",
-    descriptionNl: "LGBTQ+ belangenorganisatie met ondersteuningsdiensten",
+    description: "LHBTQ+ rights organization with support services",
+    descriptionNl: "LHBTQ+ belangenorganisatie met ondersteuningsdiensten",
     phone: "020-6234596",
     website: "https://www.coc.nl",
     categoryId: "lgbtq",
@@ -275,8 +275,8 @@ const helplines = [
   {
     id: "switchboard",
     name: "Switchboard",
-    description: "Information and support for LGBTQ+ individuals",
-    descriptionNl: "Informatie en ondersteuning voor LGBTQ+ personen",
+    description: "Information and support for LHBTQ+ individuals",
+    descriptionNl: "Informatie en ondersteuning voor LHBTQ+ personen",
     phone: "020-6232510",
     website: "https://www.switchboard.nl",
     categoryId: "lgbtq",
