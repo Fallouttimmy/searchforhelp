@@ -1,0 +1,6 @@
+{
+  "name": "searchforhelp",
+  "description": "A directory of helplines and support organizations in the Netherlands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
